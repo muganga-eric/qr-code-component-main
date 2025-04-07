@@ -1,0 +1,40 @@
+body {
+    background-color: #d5e1ef;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .card {
+    background-color: #ffffff;
+    border-radius: 20px;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    padding: 16px;
+    text-align: center;
+  }
+  
+  .qr-image {
+    width: 100%;
+    border-radius: 12px;
+  }
+  
+  .card-text {
+    padding: 20px 12px;
+  }
+  
+  .card-text h1 {
+    font-size: 18px;
+    color: #1f3251;
+    margin-bottom: 14px;
+  }
+  
+  .card-text p {
+    font-size: 14px;
+    color: #7b879d;
+    margin: 0;
+  }
+  
