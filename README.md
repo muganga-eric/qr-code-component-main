@@ -26,7 +26,7 @@ this project shows the bix that contain the qr cide it also show the flexbox in 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://code-componen.netlify.app/)
+- Solution URL: [you can see what i did here](https://code-componen.netlify.app/)
 
 ## My process
 
